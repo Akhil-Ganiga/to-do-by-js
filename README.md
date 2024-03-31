@@ -1,1 +1,1 @@
-# to-do-by-js
+The To-Do List Application is a minimalist web tool enabling users to create, manage, and organize tasks efficiently. With a clean interface, users can add tasks, mark them as completed, and remove them effortlessly. Leveraging JavaScript, the app dynamically updates the task list in real-time. Features include task filtering and sorting, enhancing user productivity. Ideal for personal and professional use, this application simplifies task management, aiding users in staying organized and focused on their goals.
